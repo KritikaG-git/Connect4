@@ -29,9 +29,9 @@ A simple two-player Connect4 game built in Java using IntelliJ IDEA. This game a
 
 ## 📁 Project Structure
 
-src/ → Java source files
-Connect4.jar → Executable JAR file
-connect4.bat → Windows launcher
+- src/ → Java source files
+- Connect4.jar → Executable JAR file
+- connect4.bat → Windows launcher
 
 ---
 
